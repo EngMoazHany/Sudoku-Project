@@ -29,9 +29,4 @@ It serves as a comparison between brute-force search and optimization through ev
 
 ---
 
-## ⚙️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/NA7RAWY/Sudoku-Project.git
-   cd Sudoku-Project
